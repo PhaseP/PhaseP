@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PhaseP, but call me Phase
+- 👀 I’m interested in furthering my coding skills.
+- 🌱 I’m currently learning Js
+- 📫 How to reach me, Email
